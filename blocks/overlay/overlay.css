@@ -1,0 +1,9 @@
+.overlay{
+    visibility: hidden;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.8);
+    min-width: 100%;
+    min-height: 100%;
+}

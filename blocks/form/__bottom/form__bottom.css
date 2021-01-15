@@ -1,0 +1,6 @@
+.form__bottom{
+    margin-top: 23px;
+    display: flex;
+    flex-direction: row ;
+    align-items: center;
+}

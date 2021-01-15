@@ -1,0 +1,6 @@
+.objects__link{
+    display: flex;
+    flex-direction: row;
+    width: 286px;
+    margin-top: 47px;
+}

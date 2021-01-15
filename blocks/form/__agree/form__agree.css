@@ -1,0 +1,10 @@
+.form__agree {
+  font-family: "Proxima Nova", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 17px;
+  color: #6d6d6d;
+  justify-self: center;
+  margin: 0 34px 0 0; 
+}

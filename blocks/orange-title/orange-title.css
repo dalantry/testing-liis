@@ -1,0 +1,8 @@
+.orange-title {
+  margin: 0;
+  line-height: 90%;
+  color: #ffffff;
+  text-shadow: 1px 0 0 #f04c23, -1px 0 0 #f04c23, 0 1px 0#f04c23,
+    0 -1px 0#f04c23, 1px 1px#f04c23, -1px -1px 0 #f04c23, 1px -1px 0#f04c23,
+    -1px 1px 0 #f04c23;
+}

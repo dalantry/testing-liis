@@ -1,0 +1,15 @@
+.form__submit {
+  padding: 17px 57px;
+  background-color: #f04c23;
+  font-family: "Proxima Nova", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  width: 220px;
+  height: 48px;
+  color: #ffffff;
+}

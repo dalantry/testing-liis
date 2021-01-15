@@ -1,0 +1,12 @@
+.link__text {
+  font-family: "Proxima Nova", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #f4f9ff;
+  margin: 0;
+  align-self: center;
+}

@@ -1,0 +1,11 @@
+.header__number-title{
+  margin: 0;
+  font-family: "Akronim", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #f04c23;
+}

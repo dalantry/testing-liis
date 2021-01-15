@@ -1,0 +1,10 @@
+.objects__text {
+  margin: 0;
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 140%;
+  letter-spacing: 0.01em;
+  color: #ffffff;
+}

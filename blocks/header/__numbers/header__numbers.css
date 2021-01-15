@@ -1,0 +1,4 @@
+.header__numbers{
+    display: flex;
+    flex-direction: row;
+}

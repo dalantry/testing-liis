@@ -1,0 +1,16 @@
+.header__link {
+  font-family: "Proxima Nova", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #F9F8FA;
+  text-decoration: none;
+  margin-left: 38px;
+}
+
+.header__link:first-child{
+    margin-left: 0;
+}

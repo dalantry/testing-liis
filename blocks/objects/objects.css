@@ -1,0 +1,6 @@
+.objects{
+    width: calc(614px - 91px - 85px);
+    height: calc(412px - 45px - 63px);
+    padding: 45px 91px 63px 85px;
+    background-color: #F04C23;
+}

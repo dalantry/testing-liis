@@ -1,0 +1,7 @@
+.info{
+    padding-top: 120px;
+    padding-bottom: 117px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    column-gap: 81px;
+}

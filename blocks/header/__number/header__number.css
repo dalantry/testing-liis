@@ -1,0 +1,7 @@
+.header__number{
+    margin-right: 27px;
+}
+
+.header__number:last-child{
+    margin: 0;
+}

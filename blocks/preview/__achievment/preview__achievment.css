@@ -1,0 +1,8 @@
+.preview__achievment{
+    max-width: 63px;
+    margin-right: 162px;
+}
+
+.preview__achievment:last-child{
+    margin: 0;
+}
