@@ -12,4 +12,6 @@
   width: 220px;
   height: 48px;
   color: #ffffff;
+  border: none;
+  white-space: nowrap;
 }

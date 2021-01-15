@@ -1,5 +1,6 @@
 .form{
-    display: flex;
-    flex-direction: row;
+    display: grid;
+    grid-template-columns: 30% 70%;
     max-width: 665px;
+    margin-left: 200px;
 }

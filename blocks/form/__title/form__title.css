@@ -1,6 +1,5 @@
 .form__title {
   align-self: center;
-  justify-self: right;
   font-family: "Proxima Nova", sans-serif;
   font-style: normal;
   font-weight: bold;
@@ -9,4 +8,6 @@
   letter-spacing: 0.01em;
   white-space: nowrap;
   transform: rotate(-90deg);
+  margin-left: -100px;
+  margin-bottom: -30px;
 }

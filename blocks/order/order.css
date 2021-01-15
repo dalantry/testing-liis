@@ -1,7 +1,6 @@
 .order{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     padding-top: 102px;
     padding-bottom: 100px;
 }

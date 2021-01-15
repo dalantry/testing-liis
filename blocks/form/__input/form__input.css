@@ -1,6 +1,15 @@
-.form__input{
-    width: 588px;
-    height: 57px;
-    margin-bottom: 11px;
-    padding: 0;
+.form__input {
+  max-width: 588px;
+  height: 20px;
+  margin-bottom: 11px;
+  padding: 10px 0 15px 17px;
+  border: 1px solid rgba(109, 109, 109, 1);
+  font-family: "Ubuntu", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 130%;
+  letter-spacing: 0.01em;
+  color: #6d6d6d;
+  outline: none;
 }
